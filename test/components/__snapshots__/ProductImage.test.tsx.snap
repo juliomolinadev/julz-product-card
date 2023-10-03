@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProductImage /> tests should show component with product image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Coffee mug"
+    className="productImg undefined"
+    src="./coffe-mug.jpg"
+  />
+</div>
+`;
