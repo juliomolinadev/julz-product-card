@@ -5,7 +5,7 @@ import { ProductButtons, ProductCard, ProductImage, ProductTitle } from '../.';
 
 const product = {
   id: '1',
-  title: 'Product title',
+  title: 'Product title!',
   // image: 'https://picsum.photos/200',
 };
 
